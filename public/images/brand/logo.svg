@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="100%">
+  <!-- Background -->
+  <rect width="600" height="240" fill="#14120F" rx="4" />
+  
+  <!-- Architectural Emblem Left (Arch with 'B' line art) -->
+  <g transform="translate(40, 24) scale(0.38)">
+    <!-- Arch -->
+    <path d="M 60 400 L 60 210 A 140 140 0 0 1 340 210 L 340 400 Z" fill="none" stroke="#B98A2E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 80 400 L 80 218 A 120 120 0 0 1 320 218 L 320 400" fill="none" stroke="#B98A2E" stroke-width="2" stroke-dasharray="6 6" opacity="0.6" />
+    
+    <!-- Building B structure -->
+    <line x1="120" y1="130" x2="120" y2="390" stroke="#B98A2E" stroke-width="14" stroke-linecap="round" />
+    <path d="M 120 130 L 210 130 C 255 130 275 152 275 190 C 275 228 255 248 210 248 L 120 248" fill="none" stroke="#B98A2E" stroke-width="12" stroke-linejoin="round" />
+    <path d="M 120 248 L 225 248 C 275 248 295 272 295 315 C 295 358 275 390 225 390 L 120 390" fill="none" stroke="#B98A2E" stroke-width="12" stroke-linejoin="round" />
+    
+    <!-- Louvres -->
+    <line x1="150" y1="170" x2="225" y2="170" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    <line x1="150" y1="205" x2="238" y2="205" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    <line x1="150" y1="285" x2="245" y2="285" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    <line x1="150" y1="320" x2="255" y2="320" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    <line x1="150" y1="355" x2="230" y2="355" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+    
+    <line x1="30" y1="416" x2="370" y2="416" stroke="#B98A2E" stroke-width="6" stroke-linecap="round" />
+  </g>
+  
+  <!-- Divider Hairline -->
+  <line x1="210" y1="45" x2="210" y2="195" stroke="#B98A2E" stroke-width="1" opacity="0.35" />
+  
+  <!-- Typography Right -->
+  <text x="245" y="116" font-family="'Hanken Grotesk', system-ui, sans-serif" font-size="34" font-weight="600" letter-spacing="0.28em" fill="#F4EFE6">BHAWANSHILP</text>
+  <text x="247" y="152" font-family="'Hanken Grotesk', system-ui, sans-serif" font-size="14" font-weight="500" letter-spacing="0.52em" fill="#B98A2E">ARCHITECT</text>
+  <text x="248" y="186" font-family="'Noto Serif Devanagari', serif" font-size="14" font-weight="400" letter-spacing="0.08em" fill="#4A453D">भवनशिल्प आर्किटेक्ट्स</text>
+</svg>

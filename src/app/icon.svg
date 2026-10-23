@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="100" fill="#14120F" />
+  <!-- Outer hairline architectural arch -->
+  <path d="M 120 400 L 120 220 A 136 136 0 0 1 392 220 L 392 400 Z" fill="none" stroke="#B98A2E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Inner architectural arch line -->
+  <path d="M 140 400 L 140 226 A 116 116 0 0 1 372 226 L 372 400" fill="none" stroke="#B98A2E" stroke-width="3" stroke-dasharray="6 6" opacity="0.6" />
+  <!-- Architectural line-art Building forming a 'B' -->
+  <!-- Left vertical pillar / spine -->
+  <line x1="184" y1="140" x2="184" y2="380" stroke="#B98A2E" stroke-width="14" stroke-linecap="round" />
+  <!-- Upper loop / floor of 'B' -->
+  <path d="M 184 140 L 270 140 C 310 140 330 160 330 195 C 330 230 310 250 270 250 L 184 250" fill="none" stroke="#B98A2E" stroke-width="12" stroke-linejoin="round" />
+  <!-- Lower loop / floor of 'B' -->
+  <path d="M 184 250 L 285 250 C 330 250 350 275 350 315 C 350 355 330 380 285 380 L 184 380" fill="none" stroke="#B98A2E" stroke-width="12" stroke-linejoin="round" />
+  <!-- Fine architectural fenestration / horizontal louvres inside 'B' -->
+  <line x1="216" y1="176" x2="280" y2="176" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <line x1="216" y1="212" x2="292" y2="212" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <line x1="216" y1="288" x2="300" y2="288" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <line x1="216" y1="324" x2="312" y2="324" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <line x1="216" y1="354" x2="276" y2="354" stroke="#B98A2E" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <!-- Base datum line / ground level -->
+  <line x1="96" y1="416" x2="416" y2="416" stroke="#B98A2E" stroke-width="6" stroke-linecap="round" />
+  <line x1="130" y1="432" x2="382" y2="432" stroke="#B98A2E" stroke-width="3" opacity="0.6" stroke-linecap="round" />
+</svg>
